@@ -1,4 +1,5 @@
-# adv_python_book
-Advanced Python Book Club Code
+# book_club
 
-## Chapter List and Descriptions
+This repository contains all code for book club. Each book has its own sub-directory.
+
+The first book in the list is: Python: Learn Python(Advanced) in 7 Days and Ace It Well.
