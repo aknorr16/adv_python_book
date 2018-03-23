@@ -26,3 +26,8 @@
 7) Python classes
 8) Error handling and exceptions
 9) Program testing in python
+
+### Chapter 4 Iterators
+Any object with the two supported iterator methods
+Allows us to move through a list, string, dictionary, etc at an efficient pace because
+only one line is stored at a time.
